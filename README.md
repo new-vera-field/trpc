@@ -215,18 +215,4 @@ If you enjoy working with tRPC and want to support us, consider giving a token a
 
 <!-- SPONSORS:LIST:END -->
 
-## All contributors ✨
 
-<a href="https://github.com/trpc/trpc/graphs/contributors">
-  <p align="center">
-    <img width="720" src="https://contrib.rocks/image?repo=trpc/trpc" alt="A table of avatars from the project's contributors" />
-  </p>
-</a>
-
----
-
-<a href="https://vercel.com/?utm_source=trpc&utm_campaign=oss">
-  <p align="center">
-    <img src="./www/static/img/powered-by-vercel.svg" alt="Powered by Vercel" title="Powered by Vercel">
-  </p>
-</a>
